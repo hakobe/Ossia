@@ -1,0 +1,27 @@
+This is Perl module Ossia.
+
+INSTALLATION
+
+Ossia installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Ossia
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Ossia documentation is available as in POD. So you can do:
+
+    % perldoc Ossia
+
+to read the documentation online with your favorite pager.
+
+Yohei Fushii
